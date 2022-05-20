@@ -12,7 +12,7 @@ Took out div tags and replaced with semantic elements for improved seo.
 Consolidated css classes and added comments.
 
 ## Visuals
-![Portfolio](./assets/images/Horiseon-Search-Engine-Optimization.png)
+![Portfolio](./assets/images/portfolio.png)
 
 ## Resources
 - [Live Site](https://selaprivette.github.io/portfolio/) 
