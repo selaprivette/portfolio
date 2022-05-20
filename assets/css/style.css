@@ -60,11 +60,11 @@ nav ul {
   }
 
 .portfolio-image{
-  width: 600px;
+  width: 400px;
 }
 
 .portfolio-image-featured{
-  width: 800px;
+   width: 600px;
 }
 
 
@@ -83,12 +83,18 @@ footer {
   }
 
 @media screen and (max-width: 768px) {
-    header {
-      
-    }
+
   
     main {
       max-width: 1200px;
+    }
+
+    .portfolio-image{
+      width: 300px;
+    }
+    
+    .portfolio-image-featured{
+      width: 400px;
     }
   }
   
