@@ -59,7 +59,13 @@ nav ul {
     color: var(--main-color);
   }
 
+.portfolio-image{
+  width: 600px;
+}
 
+.portfolio-image-featured{
+  width: 800px;
+}
 
 
 
