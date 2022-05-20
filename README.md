@@ -1,4 +1,4 @@
-# Horiseon SEO Refactor
+# Sela's Portfolio
 
 ## Table of Contents
 1. [Description](#description)
