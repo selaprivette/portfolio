@@ -6,10 +6,7 @@
 3. [Resources](#resources)
 
 ## Description
-
-Took out div tags and replaced with semantic elements for improved seo.
-
-Consolidated css classes and added comments.
+Made a viewable, user-friendly, portfolio page that can be revisited when need be. Portfolio includes previous work, a resume, example photos, and a little bit about me. When you view the page you can see tabs that will take user to the correct sections. The pictures are also clickable  , so that users can go to external pages. 
 
 ## Visuals
 ![Portfolio](./assets/images/portfolio.png)
