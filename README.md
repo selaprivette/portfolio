@@ -12,8 +12,8 @@ Took out div tags and replaced with semantic elements for improved seo.
 Consolidated css classes and added comments.
 
 ## Visuals
-![Horiseon](./assets/images/Horiseon-Search-Engine-Optimization.png)
+![Portfolio](./assets/images/Horiseon-Search-Engine-Optimization.png)
 
 ## Resources
-- [Live Site](https://selaprivette.github.io/seo-refactor/) 
-- [Repository](https://github.com/selaprivette/seo-refactor)
+- [Live Site](https://selaprivette.github.io/portfolio/) 
+- [Repository](https://github.com/selaprivette/portfolio)
