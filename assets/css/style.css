@@ -6,7 +6,8 @@
 body{
     background-color: var(--background-color);
     color: var(--alternate-text-color);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    min-width: 736px;
 }
 main {
     display: flex;
